@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
 //    테스트용 주석입니다.
 
+//    어댑터를 나중에 대입할 변수
     lateinit var mAdapter : StudentAdapter
     val mStudentList = ArrayList<StudentData>()
 
